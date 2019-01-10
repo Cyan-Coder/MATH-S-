@@ -1,0 +1,5 @@
+﻿  Main.cpp
+d:\programeren\c++\games\math(s)solution\math(s)\gfx.h(311): warning C4996: 'GetVersion': was declared deprecated
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\sysinfoapi.h(184): note: see declaration of 'GetVersion'
+  MATH(S).vcxproj -> D:\programeren\c++\games\MATH(S)solution\Debug\MATH(S).exe
+  MATH(S).vcxproj -> D:\programeren\c++\games\MATH(S)solution\Debug\MATH(S).pdb (Partial PDB)
